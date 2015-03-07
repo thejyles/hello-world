@@ -1,2 +1,3 @@
 # hello-world
-First repository for some github testing!
+
+It's a beatiful day.
